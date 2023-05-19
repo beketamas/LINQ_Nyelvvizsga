@@ -1,0 +1,15 @@
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\bin\Debug\net6.0\NyelvvizsgaFeladat.exe
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\bin\Debug\net6.0\NyelvvizsgaFeladat.deps.json
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\bin\Debug\net6.0\NyelvvizsgaFeladat.runtimeconfig.json
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\bin\Debug\net6.0\NyelvvizsgaFeladat.dll
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\bin\Debug\net6.0\NyelvvizsgaFeladat.pdb
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\obj\Debug\net6.0\NyelvvizsgaFeladat.csproj.AssemblyReference.cache
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\obj\Debug\net6.0\NyelvvizsgaFeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\obj\Debug\net6.0\NyelvvizsgaFeladat.AssemblyInfoInputs.cache
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\obj\Debug\net6.0\NyelvvizsgaFeladat.AssemblyInfo.cs
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\obj\Debug\net6.0\NyelvvizsgaFeladat.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\obj\Debug\net6.0\NyelvvizsgaFeladat.dll
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\obj\Debug\net6.0\refint\NyelvvizsgaFeladat.dll
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\obj\Debug\net6.0\NyelvvizsgaFeladat.pdb
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\obj\Debug\net6.0\NyelvvizsgaFeladat.genruntimeconfig.cache
+C:\Users\Tomi\source\repos\NyelvvizsgaFeladat\NyelvvizsgaFeladat\obj\Debug\net6.0\ref\NyelvvizsgaFeladat.dll
